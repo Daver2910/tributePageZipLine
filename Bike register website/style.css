@@ -1,0 +1,161 @@
+
+.alltextsize a{text-decoration: none;
+display: block !important ;
+font-family: sans-serif;}
+
+.rank{ 
+display: block !important ;
+font-weight: 800 ;
+font-family: sans-serif ;
+color: #CBC9C9;
+border: 4px solid #222;
+border-radius: 5px 5px 0px 0px ;
+border-bottom: 5px solid #FF5512 ;
+border-top: 5px solid #FF5512 ;
+padding-left: 5.4px ;
+    width: 16.4px;
+    display: inline-block;
+    height: 19.1px;
+    float: left;
+    font-size: 19px;
+    margin-right: 6.4px;
+    font-weight: bold;
+    color: #222;}
+    
+  span.picname {
+    font-weight: 600 ;
+   margin-top: -25px ;
+    font-size: 15px;
+    color: #958E8E ;
+    margin-left: 4px;}
+    
+    .top100rank {
+    display: block !important ;
+  border-radius: 14px 14px 0px 0px;
+    border: 1px solid #545555;
+    box-shadow: 0 0 8.5px #343434;
+border-top: 8.5px solid #343434 !important;
+background: #f7f7f7 !important;
+    padding: 18px;}
+
+span.justapicture {     margin: 13.6px;
+    margin-top: 4.38px !important;
+font-size:12px ;
+font-weight: 600 ;
+color: #61280C;}
+
+.top100 li {
+display: block !important ;
+border: 3px solid #222 ;
+margin-bottom: 2px;
+    overflow: hidden;
+    padding: 6px 4px; }
+    
+
+
+/* CLEARFIX ABOVE-------------------------------------------------------*/
+
+
+html {
+	background-color: #0d0d0d;
+}
+
+body {
+	width: 960px;
+	margin: 10px auto;
+	background-color: #404040;
+}
+
+a {
+	text-decoration: none;
+	color: #000000;
+}
+
+/* HEADER */
+
+.logo {
+	float: left;
+	width: 320px;
+	margin: 20px;
+	height: 200px;
+}
+.logo img {
+	width: 50%;
+	height: 50%;
+	margin: auto;
+}
+.logo p {
+	font-size: 20px;
+	margin: 0;
+}
+
+.navbar {
+	height: 200px;
+	text-align: right;
+	margin-right: 20px;
+}
+.navbar li {
+	text-align: center;
+	display: inline-table;
+	margin-top: 120px ;
+}
+
+
+/*MAIN BODY */
+
+.main01 {
+	background: url('images/main.jpg');
+	background-size: cover;
+}
+
+h1 {
+ text-align
+ text-decoration-style: dashed;
+ color: red;
+}
+
+.reg-bike {
+	padding-left: 100px;
+	padding-bottom: 100px;
+}
+
+.reg-bike p {
+	margin-bottom: 0;
+	color: blue;
+}
+
+.box {
+	float: left;
+	margin: 15px;
+	position: relative;
+	padding: 0, 10px;
+}
+
+.home-gal {
+	max-width: 300px;
+	float: left;
+	margin-right: 10px
+}
+
+
+.box img {
+	max-width: 100%;
+	z-index: 1;
+}
+
+.box h3 {
+	z-index: 2;
+	color: red;
+
+}
+/* FOOTER */
+
+footer p{
+	color: red;
+	text-align: center;
+}
+
+
+
+
+

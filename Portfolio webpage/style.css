@@ -1,0 +1,99 @@
+
+/* --- Global styles ----- */
+body {
+  background-color: #FFFAD5;
+  overflow-x: hidden;
+}
+
+
+p {
+ 
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 30px;
+}
+.white-text {
+  color: #FFFAD5;
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 30px;
+}
+.white {
+  color: #FFFAD5;
+}
+
+h1 {
+  
+  margin-left: 20%;
+  margin-bottom: 40px;
+}
+
+.bluecolor {
+  color: #00c4cc;
+}
+
+.yellowcolor {
+  color: #FFD34E;
+}
+
+.whitecolor {
+  color: #FFFAD5;
+}
+
+/* ---- IMAGES -------- */
+
+#banner-img /* boat images */ {
+  left: 0;
+  width: 100%;
+}
+.img-thumbnail /* website images */ {
+  min-width: 250px;
+}
+
+.littleLogo {
+  width: 80px;
+}
+
+.profile-img /* Davids images */  {
+  max-height: 300px;
+  margin: 50px 0;
+  border: 2px, #000, solid;
+  border-radius: 50%;
+  
+}
+
+/* ------- Nav bar style -----*/
+.navbar {
+  background-color: #00c4cc;
+  margin-bottom: 0;
+  border-radius: 0;
+}
+
+/* ------- About style -----*/
+
+
+
+/* ------- portfolio style -----*/
+.alt-back {
+  background-color: #00c4cc;
+  color: #000;
+  
+}
+
+h1, h2, h3, h4, h5, h6, p, a, caption, footer {
+  color: #000;
+}
+
+/* ------- Contact style -----*/
+p.margin {
+  margin-left: 5%;
+  text-align: left;
+}
+button {
+  text-align: middle;
+}
+/* ------- Footer style -----*/
+
+footer {
+  background-color: #00c4cc;
+}

@@ -1,0 +1,93 @@
+body {
+	
+	background-image: url("images/balls.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: 'Lobster', cursive;
+	color: white;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+	text-shadow: 2px 2px #ff0000;
+	padding-top: 25px;
+	font-size: 80px;
+}
+
+.pic {
+	max-width: 100%;
+}
+
+#mainBox {
+	text-align: center;
+	/*background-color: rgba(0,0,255,0.6);
+	border: 1px #ff0000 dashed;
+	border-radius: 15px;*/
+	padding: 25px 0px;	
+}
+
+#display-box {
+	/*background-color: rgba(0,0,255,0.4);
+	border: dashed 1px #ff0000;
+	border-radius: 15px;*/
+	display: inline-block;
+	padding: 5px;
+	margin-bottom: 30px;
+}
+
+#middle-col {
+	padding-top: 45px;
+	padding-bottom: 100px; 
+}
+
+.balls {
+	position: relative;
+	width: 50px;
+	 
+}
+
+#output {
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+	font-weight: bold;
+}
+
+.check {
+	position: relative;
+	border:4px solid #ff0000;
+	border-radius: 50%;
+	background-color: #ffffff;
+	background-repeat: no-repeat;
+	width: 70px;
+	height: 70px;
+	display: inline-block;
+	padding: 25px
+	margin-right: 10px;
+	margin-left: 10px;
+
+}
+
+footer {
+	background-color: black;
+
+}
+a {
+	color: #ff0000;
+	text-shadow: none;
+}
+
+p {
+	font-size: 40px;
+	text-shadow: 1px 1px #ff0000;
+}
+.check p {
+	color: black;
+	text-shadow: none;
+}
+
+.btn {
+	background-color: #ff0000;
+}

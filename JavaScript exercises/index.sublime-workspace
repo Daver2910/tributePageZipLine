@@ -1,0 +1,353 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"ge",
+				"generateRandomNumbers"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"a",
+				"arr"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"our",
+				"ourTotal"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"tex",
+				"text-center"
+			],
+			[
+				"col",
+				"col-lg-offset-2"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"te",
+				"text-align-last"
+			],
+			[
+				"text-d",
+				"text-decoration-style"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"co",
+				"cover"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"inline-b",
+				"inline-table"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"b",
+				"inline-block"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"lo",
+				"logo"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"bore",
+				"border"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"text-dec",
+				"text-decoration-color"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/LENOVO/Desktop/Websites-coding/Portfolio webpage/portfolio.html",
+		"/C/Users/LENOVO/Desktop/Websites-coding/Portfolio webpage/style.css",
+		"/C/Users/LENOVO/Desktop/Websites-coding/JavaScript exercises/index.html",
+		"/C/Users/LENOVO/Desktop/Websites-coding/tribute challenge website/style.css",
+		"/C/Users/LENOVO/Desktop/Websites-coding/tribute challenge website/tribute.html",
+		"/C/Users/LENOVO/Desktop/Websites-coding/lottery number generator/lotto.html",
+		"/C/Users/LENOVO/Desktop/Websites-coding/lottery number generator/scripts.js",
+		"/C/Users/LENOVO/Desktop/Websites-coding/JavaScript exercises/scripts",
+		"/C/Users/LENOVO/Desktop/Portfolio webpage/style.css",
+		"/C/Users/LENOVO/Desktop/tribute.html",
+		"/C/Users/LENOVO/Desktop/Portfolio webpage/portfolio.html",
+		"/C/Users/LENOVO/Desktop/Portfolio webpage/bs.html",
+		"/C/Users/LENOVO/Documents/bootstrapTutorial.html",
+		"/C/Users/LENOVO/Documents/test page.html",
+		"/C/Users/LENOVO/Desktop/What can i do/bs.html",
+		"/C/Users/LENOVO/Desktop/Bike site/style.css",
+		"/C/Users/LENOVO/Desktop/Bike site/register-my-bike.html",
+		"/C/Users/LENOVO/Desktop/Bike site/sale.html",
+		"/C/Users/LENOVO/Desktop/Bike site/search.html",
+		"/C/Users/LENOVO/Desktop/Bike site/contact.html",
+		"/C/Users/LENOVO/Desktop/Bike site/tips.html",
+		"/C/Users/LENOVO/Desktop/Recipes project/index.html",
+		"/C/Users/LENOVO/Desktop/Recipes project/style.css",
+		"/C/Users/LENOVO/Desktop/Bike site/index.html",
+		"/C/Users/LENOVO/Desktop/New folder/index.html",
+		"/C/Users/LENOVO/Desktop/Recipes project/recipes.html",
+		"/C/Users/LENOVO/Desktop/Recipes project/Privacy.html",
+		"/C/Users/LENOVO/Desktop/Recipes project/aboutUs.html",
+		"/C/Users/LENOVO/Desktop/Recipes project/contact_us.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 172.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

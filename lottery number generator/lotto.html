@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+
+<HTML>
+<head>
+	<title>Lottery number generator</title>
+ 
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" type="text/css" href="stylesheet.css">
+	
+</head>
+<body>
+<div class="container">
+	<header>
+		<h1>Winning numbers generator</h1>
+		<!--<img class="pic" src="images/transparent4.png">-->
+	</header>
+		
+	<div class="row">
+		<div class="col-lg-2">
+		</div>
+		<div id="middle-col" class="col-lg-8">
+			<div id="mainBox">	
+					<p>Pick your lucky numbers by clicking the button</p>
+				<div id="display-box">
+					<div class="check"><p id="output1">?</p></div>
+					<div class="check"><p id="output2">?</p></div>
+					<div class="check"><p id="output3">?</p></div>
+					<div class="check"><p id="output4">?</p></div>
+					<div class="check"><p id="output5">?</p></div>
+					<div class="check"><p id="output6">?</p></div>
+				</div>		
+				<div>
+					<button class="btn btn-lg btn-danger" onclick="generate(); generate1(); generate2(); generate3(); generate4(); generate5();" ><i class="fa fa-star"></i>  Generate Numbers  <i class="fa fa-star"></i></button> <!--Edit button style and click on status  -->
+				</div>
+			</div>
+		</div>
+		<div class="col-lg-2">
+		</div>
+	</div>
+</div>
+
+<footer class="text-center fixed-bottom"> Written and coded by <a href="https://www.facebook.com/daithi12" target="blank">David Redmond</a> 2018 </footer>
+
+
+<script src="scripts.js"></script>
+</body>
+</HTML>
+
+<!--    --------  changes to be made -------------
+
+the JS function should be made into 1 fuction to stop duplicated numbers.
+
+add an api to collect results from other sites.
+add option to change the number of balls and a powerball or bonus ball.
+abilty to share on facebook or twitter.
+
+
+ -->
